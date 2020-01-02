@@ -1,0 +1,7 @@
+* Leetcode 01 Two Sum
+** Introduction
+** Data Type
+*** vector
+*** vector assignment
+** traversal
+most time consuming, least memory usage

@@ -10,9 +10,9 @@ int sub(int a, int b) {
 }
 
 // case1
-TEST(test, c1) {
+TEST(fixture, c1) {
     EXPECT_EQ(3, add(1, 2));
-    EXPECT_EQ(12, add(2, 6));
+    EXPECT_EQ(16, add(2, 6));
 }
 
 // case2

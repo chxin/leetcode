@@ -1,0 +1,2 @@
+* makefile
+g++ -lgtest -std=c++ main.cpp

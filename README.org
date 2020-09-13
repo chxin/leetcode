@@ -1,0 +1,9 @@
+* leetcode
+leetcode code and note
+
+** workflow
+*** leetcode-cli
+[[./makefile][makefile to call leetcode-cli command]]
+
+*** leetcode daily
+[[./note/Leetcode-目录.org][leetcode TODOs]]
